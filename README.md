@@ -11,4 +11,6 @@ CHALLENGES FACED:
 5. So, the model that I have right now is trained only on 2 epochs and
 NOTE: Any one can take this architecture and train the model on their machine,
 
-I WAS UNABLE TO UPLOAD THE MODEL AS IT WAS MORE THAN 25mbs in size
+I WAS UNABLE TO UPLOAD THE MODEL AS IT WAS MORE THAN 25mbs in size. I uploaded it to drive and here is the link from which you can get the model to test 
+https://drive.google.com/file/d/1PvQNgBVbb_3VATGBi6XqbjyveLjJf_kx/view?usp=drive_link
+
