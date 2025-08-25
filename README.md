@@ -10,4 +10,5 @@ CHALLENGES FACED:
 4. The main problem is that even after doing all this, the model and the computation was so big that it would take around 50 hours to train the model in 50 epochs and I had not upgraded the volab plan to pro
 5. So, the model that I have right now is trained only on 2 epochs and
 NOTE: Any one can take this architecture and train the model on their machine,
- 
+
+I WAS UNABLE TO UPLOAD THE MODEL AS IT WAS MORE THAN 25mbs in size
